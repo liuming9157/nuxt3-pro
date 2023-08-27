@@ -1,4 +1,4 @@
-** 本项目来源于《腾讯云Cloud Studio实战训练营》的参赛作品，该作品在腾讯云Cloud Studio环境中运行无误。**
+**本项目来源于《腾讯云Cloud Studio实战训练营》的参赛作品，该作品在腾讯云Cloud Studio环境中运行无误**
 
 # Nuxt3-Pro
 基于Nuxt3、Element-Plus、TailwindCss的中后台快速开发框架
@@ -72,6 +72,10 @@ npm run dev
 * [@vueuse/integrations v10.1.2](https://github.com/vueuse/vueuse/tree/main/packages/integrations) 
 
 
+## 使用插画库 
+[iconfont缺省占位图](https://www.iconfont.cn/illustrations/detail?cid=39794) 
+
+
 ## 关于作者  
 刘明，十年创业老兵，开源技术爱好者。
 如有问题可扫码联系
@@ -82,5 +86,3 @@ npm run dev
 
   
 
-## 使用插画库 
-[iconfont缺省占位图](https://www.iconfont.cn/illustrations/detail?cid=39794) 
