@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+		"@vueuse/integrations": "^10.1.2",
+		"echarts": "^5.4.2",
+		"qrcode": "^1.5.1",
+		"typed.js": "^2.0.15",
+		"vuedraggable": "^4.1.0"
+	},
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "nuxt": "^3.7.0",
+    "@element-plus/nuxt": "^1.0.4",
+		"@nuxtjs/device": "^3.1.0",
+		"@nuxtjs/tailwindcss": "^6.4.1",
+		"@pinia-plugin-persistedstate/nuxt": "^1.1.1",
+		"pinia": "^2.0.31"
+  }
+}
